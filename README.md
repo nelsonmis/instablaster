@@ -2,7 +2,7 @@
   <img src="./assets/InstaBlast.png" alt="InstaBlast Logo" width="250"/>
 </p>
 
-<h1 align="center">🚀 InstaBlast</h1>
+<h1 align="center">🚀 InstaBlast — Telegram: https://t.me/instablaster2</h1>
 
 <p align="center">
   Automate smarter. Grow faster. Instagram engagement tools built for results.
@@ -64,3 +64,4 @@ It’s one of the few tools left that gives you reach and immediacy. And when us
 ## 🧠 Note
 
 This repository contains the frontend UI only. Core automation logic is provided to verified users. Reach out to us to gain access.
+
